@@ -18,7 +18,7 @@
     "@docusaurus/core": "2.4.0",
     "@docusaurus/preset-classic": "2.4.0",
     "@svgr/webpack": "7.0.0",
-    "clsx": "1.2.1",
+    "clsx": "2.0.0",
     "file-loader": "6.2.0",
     "follow-redirects": "1.15.2",
     "got": "12.6.0",
